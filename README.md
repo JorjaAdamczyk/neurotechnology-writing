@@ -6,6 +6,14 @@ Selected science writing exploring emerging developments in neurotechnology, neu
 
 I am a BSc Neuroscience student at King's College London with an interest in neurotechnology, computational neuroscience and the translation of emerging technologies into healthcare.
 
-## Selected Writing
+## Published Writing
 
-More articles coming soon.
+Science writing published through ROAR Science Magazine.
+
+→ [View ROAR publications](./ROAR)
+
+## Independent Neurotechnology Writing
+
+Independent research and writing exploring emerging developments in neurotechnology.
+
+→ [View independent writing](./Independent)
